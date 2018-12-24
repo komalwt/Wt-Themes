@@ -1,4 +1,5 @@
-Original Font - Arial
-Icons from Angela theme
+Updated Font - Roboto
+Icons from Material Icons 
+ Src: https://material.io/tools/icons/?style=baseline
 Material design style
 Cards Design
