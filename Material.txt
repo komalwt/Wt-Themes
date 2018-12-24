@@ -5,3 +5,4 @@ Updated background color
 Material design style
 Cards Design Style Updated
 Cleaner and Much better
+Issue fixed!
